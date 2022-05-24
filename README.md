@@ -1,7 +1,9 @@
+Run
 ====
-Try `./gradlew :app:compileJava`
 
-You should see the following output:
+After checkout, run `./gradlew :app:compileJava`
+
+You should see the following output roughly:
 ```
 ./gradlew :app:compileJava
 Configure Tests
